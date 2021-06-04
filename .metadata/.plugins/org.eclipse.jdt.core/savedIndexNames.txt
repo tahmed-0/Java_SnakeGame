@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+/Users/ahmed/Documents/Projects/Java/Snake/.metadata/.plugins/org.eclipse.jdt.core
+3980473013.index
